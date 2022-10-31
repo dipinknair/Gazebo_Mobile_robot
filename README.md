@@ -27,9 +27,9 @@
 │   │   ├── model.config
 │   │   ├── model.sdf
 ├── script                         # Plugin files 
-│   ├── welcome.cpp
+│   ├── welcomeworld.cpp
 ├── world                          # World files
-│   ├── UdacityOffice.world
+│   ├── world.world
 ├── CMakeLists.txt
 └── build   
 ```
