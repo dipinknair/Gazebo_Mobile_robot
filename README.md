@@ -10,7 +10,7 @@
    - Git
 2. Clone the project using `git clone < >`
 3. Open build folder in terminal
-4. Build with cmake `cmake .. && make`
+4. Build with cmake `cmake ../ && make`
 5. Add the build folder to the Gazebo plugin path: 
 `GAZEBO_PLUGIN_PATH=${GAZEBO_PLUGIN_PATH}:<path_to_build_folder>`.
 6. Go back to world folder.
