@@ -1,6 +1,6 @@
 # Mobile robot in gazebo environment
 
-[[![Overview](image.png)]] 
+![Overview](image.png)]
 
 ## Build Instructions
 1. Make sure you have the following installed:
