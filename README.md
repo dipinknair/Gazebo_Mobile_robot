@@ -1,6 +1,9 @@
 # Mobile robot in gazebo environment
 
-![Overview](images/topview.png)]
+
+<img src="images/topview.png" width=50% height=50%>
+<img src="images/iso.png" width=50% height=50%>
+
 
 ## Build Instructions
 1. Make sure you have the following installed:
