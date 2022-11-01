@@ -1,3 +1,0 @@
-/home/deepak/Documents/gitrepos/Gazebo_Mobile_robot/build/CMakeFiles/edit_cache.dir
-/home/deepak/Documents/gitrepos/Gazebo_Mobile_robot/build/CMakeFiles/rebuild_cache.dir
-/home/deepak/Documents/gitrepos/Gazebo_Mobile_robot/build/CMakeFiles/welcomeworld.dir
