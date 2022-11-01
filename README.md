@@ -9,12 +9,13 @@
    - gcc/g++
    - Git
 2. Clone the project using `git clone < >`
-3. Open build folder in terminal
-4. Build with cmake `cmake ../ && make`
-5. Add the build folder to the Gazebo plugin path: 
-`GAZEBO_PLUGIN_PATH=${GAZEBO_PLUGIN_PATH}:<path_to_build_folder>`.
-6. Go back to world folder.
-8. Launch Gazebo world `gazebo world` or `gazebo world --verbose` for debug
+3. Open project folder folder in terminal
+4. create build folder and make it as current directory. `mkdir build && cd build`
+6. Build with cmake `cmake ../ && make`
+7. Add the build folder to the Gazebo plugin path: 
+`export GAZEBO_PLUGIN_PATH=${GAZEBO_PLUGIN_PATH}:<path_to_build_folder>`.
+8. Go back to world folder.
+9. Launch Gazebo world `gazebo world` or `gazebo world --verbose` for debug
 
 ## Structure
 ```
@@ -30,6 +31,5 @@
 │   ├── welcomeworld.cpp
 ├── world                          # World files
 │   ├── world.world
-├── CMakeLists.txt
-└── build   
+├── CMakeLists.txt  
 ```
